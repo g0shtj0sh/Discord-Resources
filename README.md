@@ -95,7 +95,6 @@ Pour obtenir les IDs d'utilisateurs et d'autres types d'IDs :
 7. **[discordlookup.com/snowflake-distance](https://discordlookup.com/snowflake-distance)** → Utilisé pour rechercher la différence entre les comptes par la date de création pour l'ID
 8. **[discordlookup.com/user](https://discordlookup.com/user)** → Autre outil de recherche d'ID
 9. **[discordhub.com/user/search](https://discordhub.com/user/search)** → Recherche d'utilisateurs
-10. **[discordhub.com/servers/list](https://discordhub.com/servers/list)** → Liste de serveurs
 11. **[Discord lookup tool](https://github.com/discordlookup/discordlookup)** → Outil de recherche Discord
 
 ---
@@ -260,5 +259,6 @@ Ce dépôt combine les ressources de :
 ---
 
 **Note** : Ce dépôt est maintenu à des fins éducatives et de recherche OSINT légitimes. Utilisez ces ressources de manière responsable et conforme aux conditions d'utilisation de Discord.
+
 
 
