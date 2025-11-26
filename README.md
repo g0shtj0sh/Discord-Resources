@@ -86,16 +86,9 @@ Pour obtenir les IDs d'utilisateurs et d'autres types d'IDs :
 
 ### Outils de Recherche Principaux
 
-1. **[lookup.guru](https://lookup.guru/)** → Recherche d'utilisateurs et de serveurs
-2. **[discord.id](https://discord.id/)** → Recherche par ID (limité par captcha)
-3. **[discord.name](https://discord.name/)** → Recherche par nom
-4. **[hugo.moe/discord/discord-id-creation-date.html](https://hugo.moe/discord/discord-id-creation-date.html)** → Prend tous les ID du site (horodatage des commentaires, canaux ainsi que membres)
-5. **[distools.app/lookup/guild](https://distools.app/lookup/guild)** → Recherche de serveurs (affiche les membres et les informations, code d'invitation possible)
-6. **[discord.me/servers/category](https://discord.me/servers/category)** → Recherche par catégorie
-7. **[discordlookup.com/snowflake-distance](https://discordlookup.com/snowflake-distance)** → Utilisé pour rechercher la différence entre les comptes par la date de création pour l'ID
-8. **[discordlookup.com/user](https://discordlookup.com/user)** → Autre outil de recherche d'ID
-9. **[discordhub.com/user/search](https://discordhub.com/user/search)** → Recherche d'utilisateurs
-11. **[Discord lookup tool](https://github.com/discordlookup/discordlookup)** → Outil de recherche Discord
+1. **[discord.name](https://discord.name/)** → Recherche par nom
+2. **[discordhub.com/user/search](https://discordhub.com/user/search)** → Recherche d'utilisateurs
+3. **[Discord lookup tool](https://github.com/discordlookup/discordlookup)** → Outil de recherche Discord
 
 ---
 
@@ -259,6 +252,7 @@ Ce dépôt combine les ressources de :
 ---
 
 **Note** : Ce dépôt est maintenu à des fins éducatives et de recherche OSINT légitimes. Utilisez ces ressources de manière responsable et conforme aux conditions d'utilisation de Discord.
+
 
 
 
