@@ -23,7 +23,7 @@
 
 ## Introduction
 
-Ce dépôt contient une collection complète de ressources pour mener des recherches OSINT (Open Source Intelligence) sur Discord. Il combine les meilleures ressources des deux dépôts sources pour offrir un guide complet et organisé.
+Ce dépôt contient une collection complète de ressources pour Discord.
 
 ### Site officiel Discord
 - **Site officiel**: https://discord.com/
@@ -252,6 +252,7 @@ Ce dépôt combine les ressources de :
 ---
 
 **Note** : Ce dépôt est maintenu à des fins éducatives et de recherche OSINT légitimes. Utilisez ces ressources de manière responsable et conforme aux conditions d'utilisation de Discord.
+
 
 
 
